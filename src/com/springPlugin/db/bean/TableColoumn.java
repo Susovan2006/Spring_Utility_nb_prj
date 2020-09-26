@@ -1,12 +1,13 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ * Created by Susovan Gumtya 2014
  */
 package com.springPlugin.db.bean;
 
 /**
  *
- * @author Sandipan
+ * @author Susovan
  */
 public class TableColoumn {
     

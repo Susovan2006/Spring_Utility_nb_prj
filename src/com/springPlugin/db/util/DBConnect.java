@@ -1,6 +1,7 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ * Created by Susovan Gumtya 2014
  */
 package com.springPlugin.db.util;
 
@@ -21,7 +22,7 @@ import com.springPlugin.fileCreator.JavaFileCreator;
         
 /**
  *
- * @author Sandipan
+ * @author Susovan
  */
 public class DBConnect {
 
